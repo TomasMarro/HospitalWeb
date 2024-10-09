@@ -1,0 +1,12 @@
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\bin\Debug\net8.0\HospitalClases.deps.json
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\bin\Debug\net8.0\HospitalClases.dll
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\bin\Debug\net8.0\HospitalClases.pdb
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.AssemblyInfoInputs.cache
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.AssemblyInfo.cs
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.csproj.CoreCompileInputs.cache
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.sourcelink.json
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.dll
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\refint\HospitalClases.dll
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\HospitalClases.pdb
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\HospitalClases\obj\Debug\net8.0\ref\HospitalClases.dll

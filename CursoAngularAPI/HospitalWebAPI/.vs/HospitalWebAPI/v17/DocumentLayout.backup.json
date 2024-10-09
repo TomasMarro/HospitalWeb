@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE99B30B-73BB-4906-9542-69B0287FD012}|Repositorios\\Repositorios.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\repositorios\\dal\\repositorios\\medicosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE99B30B-73BB-4906-9542-69B0287FD012}|Repositorios\\Repositorios.csproj|solutionrelative:repositorios\\dal\\repositorios\\medicosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454F285-48AD-4F2A-8B0A-890AD8C055B9}|HospitalModels\\HospitalModels.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalmodels\\modelos\\hospitalappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0454F285-48AD-4F2A-8B0A-890AD8C055B9}|HospitalModels\\HospitalModels.csproj|solutionrelative:hospitalmodels\\modelos\\hospitalappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\hospitalwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\hospitalwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\hospitalwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\hospitalwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454F285-48AD-4F2A-8B0A-890AD8C055B9}|HospitalModels\\HospitalModels.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalmodels\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0454F285-48AD-4F2A-8B0A-890AD8C055B9}|HospitalModels\\HospitalModels.csproj|solutionrelative:hospitalmodels\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Downloads\\Proyecto\\ProyectoRepo\\ProyectoFinal_FabricaDeMuebles\\Project\\Frontend\\src\\pages\\cartPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalAppContext.cs",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalModels\\Modelos\\HospitalAppContext.cs",
+              "RelativeDocumentMoniker": "HospitalModels\\Modelos\\HospitalAppContext.cs",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalModels\\Modelos\\HospitalAppContext.cs",
+              "RelativeToolTip": "HospitalModels\\Modelos\\HospitalAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:43:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalWebAPI\\appsettings.json",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\appsettings.json",
+              "RelativeToolTip": "HospitalWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T17:05:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalWebAPI.http",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.http",
+              "RelativeDocumentMoniker": "HospitalWebAPI\\HospitalWebAPI.http",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.http",
+              "RelativeToolTip": "HospitalWebAPI\\HospitalWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-04T17:05:25.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalWebAPI",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.csproj",
+              "RelativeDocumentMoniker": "HospitalWebAPI\\HospitalWebAPI.csproj",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.csproj",
+              "RelativeToolTip": "HospitalWebAPI\\HospitalWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T17:03:52.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalModels\\Modelos\\Medico.cs",
+              "RelativeDocumentMoniker": "HospitalModels\\Modelos\\Medico.cs",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalModels\\Modelos\\Medico.cs",
+              "RelativeToolTip": "HospitalModels\\Modelos\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:05:32.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalWebAPI\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Program.cs",
+              "RelativeToolTip": "HospitalWebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:00:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cartPage.jsx",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\Proyecto\\ProyectoRepo\\ProyectoFinal_FabricaDeMuebles\\Project\\Frontend\\src\\pages\\cartPage.jsx",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\Proyecto\\ProyectoRepo\\ProyectoFinal_FabricaDeMuebles\\Project\\Frontend\\src\\pages\\cartPage.jsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-01T02:36:59.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicosRepositorio.cs",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs*",
+              "RelativeToolTip": "Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:59:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "HospitalWebAPI\\Controllers\\MedicoController.cs",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "HospitalWebAPI\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:55:48.307Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
