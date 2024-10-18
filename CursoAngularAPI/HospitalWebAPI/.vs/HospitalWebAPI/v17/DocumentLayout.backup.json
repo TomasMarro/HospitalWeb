@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE99B30B-73BB-4906-9542-69B0287FD012}|Repositorios\\Repositorios.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\repositorios\\dal\\repositorios\\medicosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE99B30B-73BB-4906-9542-69B0287FD012}|Repositorios\\Repositorios.csproj|solutionrelative:repositorios\\dal\\repositorios\\medicosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\hospitalwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|d:\\cursos\\cursodeangular\\cursoangularapi\\hospitalwebapi\\hospitalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7C5F7D-C0D5-4843-854B-87C9032F0767}|HospitalWebAPI\\HospitalWebAPI.csproj|solutionrelative:hospitalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HospitalAppContext.cs",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalModels\\Modelos\\HospitalAppContext.cs",
               "RelativeDocumentMoniker": "HospitalModels\\Modelos\\HospitalAppContext.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "HospitalWebAPI\\appsettings.json",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HospitalWebAPI.http",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.http",
               "RelativeDocumentMoniker": "HospitalWebAPI\\HospitalWebAPI.http",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HospitalWebAPI",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\HospitalWebAPI.csproj",
               "RelativeDocumentMoniker": "HospitalWebAPI\\HospitalWebAPI.csproj",
@@ -139,12 +139,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MedicosRepositorio.cs",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
-              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs*",
-              "RelativeToolTip": "Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs*",
+              "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\DAL\\Repositorios\\MedicosRepositorio.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAArwB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:59:28.844Z",
@@ -152,15 +152,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MedicoController.cs",
               "DocumentMoniker": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Controllers\\MedicoController.cs",
               "RelativeDocumentMoniker": "HospitalWebAPI\\Controllers\\MedicoController.cs",
               "ToolTip": "D:\\Cursos\\Cursodeangular\\CursoAngularAPI\\HospitalWebAPI\\HospitalWebAPI\\Controllers\\MedicoController.cs",
               "RelativeToolTip": "HospitalWebAPI\\Controllers\\MedicoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwFUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:55:48.307Z"
+              "WhenOpened": "2024-10-01T00:55:48.307Z",
+              "EditorCaption": ""
             }
           ]
         },
