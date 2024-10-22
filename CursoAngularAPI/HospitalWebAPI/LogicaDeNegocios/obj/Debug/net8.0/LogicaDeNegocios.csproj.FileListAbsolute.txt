@@ -1,4 +1,5 @@
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\LogicaDeNegocios.deps.json
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\LogicaDeNegocios.runtimeconfig.json
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\LogicaDeNegocios.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\LogicaDeNegocios.pdb
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\HospitalClases.dll
@@ -19,6 +20,5 @@ D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Deb
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\LogicaDeNegocios.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\refint\LogicaDeNegocios.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\LogicaDeNegocios.pdb
-D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\ref\LogicaDeNegocios.dll
-D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\bin\Debug\net8.0\LogicaDeNegocios.runtimeconfig.json
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\LogicaDeNegocios.genruntimeconfig.cache
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\LogicaDeNegocios\obj\Debug\net8.0\ref\LogicaDeNegocios.dll

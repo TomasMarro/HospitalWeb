@@ -1,8 +1,6 @@
 using HospitalModels.Modelos;
 using LogicaDeNegocios.BLL;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
-using Microsoft.Net.Http.Headers;
 using Repositorios.DAL.Interfaces;
 using Repositorios.DAL.Repositorios;
 

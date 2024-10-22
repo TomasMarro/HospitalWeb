@@ -1,4 +1,5 @@
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\Rest.deps.json
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\Rest.runtimeconfig.json
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\Rest.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\Rest.pdb
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\HospitalClases.dll
@@ -15,6 +16,5 @@ D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\Re
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\Rest.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\refint\Rest.dll
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\Rest.pdb
-D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\ref\Rest.dll
-D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\bin\Debug\net8.0\Rest.runtimeconfig.json
 D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\Rest.genruntimeconfig.cache
+D:\Cursos\Cursodeangular\CursoAngularAPI\HospitalWebAPI\Rest\obj\Debug\net8.0\ref\Rest.dll
